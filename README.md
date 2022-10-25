@@ -1,5 +1,5 @@
 # ICS_Final_Project_GUI
-This is the final project for Introduction to Computer Science in NYUShanghai, 2020 Fall.
+This is the final project for CSCI-SHU 101, Introduction to Computer Science, 2020 Fall.
 
 ## Project Introduction
 Our project is a Chat System with Graphic User Interface and Online Game. The system is equipped with
