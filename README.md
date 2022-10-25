@@ -9,7 +9,8 @@ Our project is a Chat System with Graphic User Interface and Online Game. The sy
   - game function (multi-player Gobang, Snake, and shooting game with self-designed logo). 
   - The whole system is presented through GUI.
 
-Since the presentation contains several video cuts, the coding and presentation are stored in google drive.
+## Project Presentation
+Since the presentation contains several video cuts, the coding and presentation video are stored in google drive.
 Please refer to: https://drive.google.com/drive/folders/1hAwKTEVoQ0mS_6d16Ti988zzczWke0e3?usp=sharing
 
 Teamed with Tiffany Tang, Louisa Liu.
